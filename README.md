@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-![Exploratory Data Analysis](https://github.com/harshil-z/Data-Analyst-Harshil/blob/main/images/eda.png)
+![Exploratory Data Analysis](/images/eda.png)
 
 **Project Description:**
 Exploration of food vendor data in Vancouver to identify geographic and business insights.
