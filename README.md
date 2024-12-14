@@ -32,7 +32,7 @@ The food vendors dataset from the City of Vancouver website: Food Vendors Datase
 
 # Descriptive Analysis
 
-![Descriptive Analysis](https://github.com/harshil-z/Data-Analyst-Harshil/blob/main/images/descriptive.png)
+![Descriptive Analysis](https://github.com/harshil-z/Data-Analyst-Harshil/blob/main/images/description.png)
 
 
 **Project Description:**
@@ -63,6 +63,9 @@ Food vendors dataset from the City of Vancouver.
 - Summary statistics and visualizations.
   
 # Diagnostic Analysis
+
+![Diagnostic Analysis](https://github.com/harshil-z/Data-Analyst-Harshil/blob/main/images/diagnostic.png)
+
 
 **Project Description:**
 In-depth diagnostic analysis to identify patterns and issues in food vendor data.
