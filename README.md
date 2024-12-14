@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-![Exploratory Data Analysis](/images/eda.png)
+![Exploratory Data Analysis](images/eda.png)
 
 **Project Description:**
 Exploration of food vendor data in Vancouver to identify geographic and business insights.
@@ -32,7 +32,7 @@ The food vendors dataset from the City of Vancouver website: Food Vendors Datase
 
 # Descriptive Analysis
 
-![Descriptive Analysis](https://github.com/harshil-z/Data-Analyst-Harshil/blob/main/images/description.png)
+![Descriptive Analysis](images/description.png)
 
 
 **Project Description:**
@@ -64,7 +64,7 @@ Food vendors dataset from the City of Vancouver.
   
 # Diagnostic Analysis
 
-![Diagnostic Analysis](https://github.com/harshil-z/Data-Analyst-Harshil/blob/main/images/diagnostic.png)
+![Diagnostic Analysis](images/diagnostic.png)
 
 
 **Project Description:**
@@ -102,7 +102,7 @@ The food vendors dataset sourced from the City of Vancouver.
 
 # Data Wrangling
 
-![Data Wrangling](https://github.com/harshil-z/Data-Analyst-Harshil/blob/main/images/wrangling.png)
+![Data Wrangling](images/wrangling.png)
 
 
 **Project Description:**
@@ -139,7 +139,7 @@ Food vendors dataset stored in the S3 raw bucket (fv-raw-harshil).
 
 # Data Quality Control
 
-![Data Quality Control](https://github.com/harshil-z/Data-Analyst-Harshil/blob/main/images/quality-control.png)
+![Data Quality Control](images/quality-control.png)
 
 
 **Project Description:**
